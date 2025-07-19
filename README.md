@@ -17,6 +17,7 @@
 git clone https://github.com/channo39mz/BFC_project1.git
 cd BFC_project1
 
+```
 ### 2. Run
 docker-compose up --build
 curl http://localhost:8000
