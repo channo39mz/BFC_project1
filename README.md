@@ -15,4 +15,4 @@
 ### 1. Clone โครงการ
 ```bash
 git clone https://github.com/channo39mz/BFC_project1.git
-cd multi-api
+cd BFC_project1
